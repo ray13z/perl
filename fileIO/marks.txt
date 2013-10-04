@@ -1,0 +1,7 @@
+Subject	Marks
+Eng	78
+Hin	85
+Hist	79
+Geog	80
+Math	95
+Sci	94
