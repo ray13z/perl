@@ -6,4 +6,4 @@ The seminar was held on October 5, 2013.
 
 You can copy, use and distribute the code as you please. 
 
-For more information on VIT-ACM, visit [www.vitmumbai.acm.org](http://www.vitmumbai.acm.org) . 
+For more information on VIT-ACM, visit [www.vitmumbai.acm.org](www.vitmumbai.acm.org) . 
